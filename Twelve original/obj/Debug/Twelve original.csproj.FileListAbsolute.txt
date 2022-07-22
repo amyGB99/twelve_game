@@ -1,0 +1,35 @@
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\Twelve original\obj\Debug\Twelve original.csprojResolveAssemblyReference.cache
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\Twelve original\bin\Debug\Twelve original.dll
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\Twelve original\bin\Debug\Twelve original.pdb
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\Twelve original\obj\Debug\Twelve original.dll
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\Twelve original\obj\Debug\Twelve original.pdb
+F:\Twelve original\Twelve original\bin\Debug\Twelve original.dll
+F:\Twelve original\Twelve original\bin\Debug\Twelve original.pdb
+F:\Twelve original\Twelve original\obj\Debug\Twelve original.csprojResolveAssemblyReference.cache
+F:\Twelve original\Twelve original\obj\Debug\Twelve original.dll
+F:\Twelve original\Twelve original\obj\Debug\Twelve original.pdb
+C:\Users\Familia\Desktop\Twelve original\Twelve original\bin\Debug\Twelve original.dll
+C:\Users\Familia\Desktop\Twelve original\Twelve original\bin\Debug\Twelve original.pdb
+C:\Users\Familia\Desktop\Twelve original\Twelve original\obj\Debug\Twelve original.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Twelve original\Twelve original\obj\Debug\Twelve original.dll
+C:\Users\Familia\Desktop\Twelve original\Twelve original\obj\Debug\Twelve original.pdb
+C:\Users\Familia\Desktop\Amanda González Borrell C113\Twelve original\bin\Debug\Twelve original.dll
+C:\Users\Familia\Desktop\Amanda González Borrell C113\Twelve original\bin\Debug\Twelve original.pdb
+C:\Users\Familia\Desktop\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.dll
+C:\Users\Familia\Desktop\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.pdb
+F:\Amanda González Borrell C113\Twelve original\bin\Debug\Twelve original.dll
+F:\Amanda González Borrell C113\Twelve original\bin\Debug\Twelve original.pdb
+F:\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.csprojResolveAssemblyReference.cache
+F:\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.dll
+F:\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.pdb
+G:\Amanda González Borrell C113\Twelve original\bin\Debug\Twelve original.dll
+G:\Amanda González Borrell C113\Twelve original\bin\Debug\Twelve original.pdb
+G:\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.csprojResolveAssemblyReference.cache
+G:\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.dll
+G:\Amanda González Borrell C113\Twelve original\obj\Debug\Twelve original.pdb
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\Twelve original\bin\Debug\Twelve original.dll
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\Twelve original\bin\Debug\Twelve original.pdb
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\Twelve original\obj\Debug\Twelve original.csprojResolveAssemblyReference.cache
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\Twelve original\obj\Debug\Twelve original.dll
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\Twelve original\obj\Debug\Twelve original.pdb

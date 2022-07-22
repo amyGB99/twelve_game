@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twelve original", "Twelve original\Twelve original.csproj", "{CEC77720-9AEE-4FD7-9A56-F5AE55B81A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWELVE", "TWELVE\TWELVE.csproj", "{DFC97A33-E578-437B-BA2E-89E3BA329AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC77720-9AEE-4FD7-9A56-F5AE55B81A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC77720-9AEE-4FD7-9A56-F5AE55B81A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC77720-9AEE-4FD7-9A56-F5AE55B81A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC77720-9AEE-4FD7-9A56-F5AE55B81A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC97A33-E578-437B-BA2E-89E3BA329AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC97A33-E578-437B-BA2E-89E3BA329AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC97A33-E578-437B-BA2E-89E3BA329AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC97A33-E578-437B-BA2E-89E3BA329AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

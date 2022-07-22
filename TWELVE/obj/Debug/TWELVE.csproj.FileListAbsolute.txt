@@ -1,0 +1,91 @@
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\bin\Debug\TWELVE.exe.config
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\bin\Debug\TWELVE.exe
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\bin\Debug\TWELVE.pdb
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\obj\Debug\TWELVE.Form1.resources
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\obj\Debug\TWELVE.exe
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\obj\Debug\TWELVE.pdb
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\bin\Debug\Twelve original.dll
+c:\users\familia\documents\visual studio 2015\Projects\Twelve original\TWELVE\bin\Debug\Twelve original.pdb
+F:\Twelve original\TWELVE\bin\Debug\TWELVE.exe.config
+F:\Twelve original\TWELVE\obj\Debug\TWELVE.exe
+F:\Twelve original\TWELVE\obj\Debug\TWELVE.pdb
+F:\Twelve original\TWELVE\bin\Debug\TWELVE.exe
+F:\Twelve original\TWELVE\bin\Debug\TWELVE.pdb
+F:\Twelve original\TWELVE\bin\Debug\Twelve original.dll
+F:\Twelve original\TWELVE\bin\Debug\Twelve original.pdb
+F:\Twelve original\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+F:\Twelve original\TWELVE\obj\Debug\TWELVE.Form1.resources
+F:\Twelve original\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+F:\Twelve original\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\Twelve original\TWELVE\bin\Debug\TWELVE.exe.config
+C:\Users\Familia\Desktop\Twelve original\TWELVE\obj\Debug\TWELVE.exe
+C:\Users\Familia\Desktop\Twelve original\TWELVE\obj\Debug\TWELVE.pdb
+C:\Users\Familia\Desktop\Twelve original\TWELVE\bin\Debug\TWELVE.exe
+C:\Users\Familia\Desktop\Twelve original\TWELVE\bin\Debug\TWELVE.pdb
+C:\Users\Familia\Desktop\Twelve original\TWELVE\bin\Debug\Twelve original.dll
+C:\Users\Familia\Desktop\Twelve original\TWELVE\bin\Debug\Twelve original.pdb
+C:\Users\Familia\Desktop\Twelve original\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Twelve original\TWELVE\obj\Debug\TWELVE.Form1.resources
+C:\Users\Familia\Desktop\Twelve original\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+C:\Users\Familia\Desktop\Twelve original\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+H:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe.config
+H:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.exe
+H:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.pdb
+H:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe
+H:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.pdb
+H:\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.dll
+H:\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.pdb
+H:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+H:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Form1.resources
+H:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+H:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe.config
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.exe
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.pdb
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.pdb
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.dll
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.pdb
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Form1.resources
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+C:\Users\Familia\Desktop\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+F:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe.config
+F:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.exe
+F:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.pdb
+F:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe
+F:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.pdb
+F:\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.dll
+F:\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.pdb
+F:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+F:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Form1.resources
+F:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+F:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+G:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe.config
+G:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.exe
+G:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.pdb
+G:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.exe
+G:\Amanda González Borrell C113\TWELVE\bin\Debug\TWELVE.pdb
+G:\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.dll
+G:\Amanda González Borrell C113\TWELVE\bin\Debug\Twelve original.pdb
+G:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+G:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Form1.resources
+G:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+G:\Amanda González Borrell C113\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\bin\Debug\TWELVE.exe.config
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.exe
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.pdb
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\bin\Debug\TWELVE.exe
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\bin\Debug\TWELVE.pdb
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\bin\Debug\Twelve original.dll
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\bin\Debug\Twelve original.pdb
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.csprojResolveAssemblyReference.cache
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.Form1.resources
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.Properties.Resources.resources
+D:\Escuela\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.csproj.GenerateResource.Cache
+D:\Escuela\1er Ano\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\bin\Debug\TWELVE.exe.config
+D:\Escuela\1er Ano\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.exe
+D:\Escuela\1er Ano\proyectos pro\1er año\1er semestre\twelve terminado\TWELVE\obj\Debug\TWELVE.pdb
